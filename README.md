@@ -1,7 +1,7 @@
 
-# Olá! Eu sou [SEU NOME] 👋
+# Olá! Eu sou Felipe Miguel Kluska 👋
 
-🎓 Estudante de [NOME DO SEU CURSO]
+🎓 Estudante de Ciência da Computação
 
 ## 👨‍💻 Sobre mim
 
@@ -18,7 +18,7 @@ Tenho interesse em aprender novas tecnologias, desenvolver projetos práticos e 
 
 ## 💡 Áreas de interesse
 
-- Desenvolvimento de Software
+- cibersegurança
 - Desenvolvimento Web
 - Banco de Dados
 - Tecnologia e Inovação
